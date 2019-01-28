@@ -1,0 +1,11 @@
+# Backup
+/Backup/
+
+# Desktop.ini
+/Desktop.ini
+
+# Exports
+/*.wav
+/*.wav.asd
+/*.mp3
+/*.mp3.asd
